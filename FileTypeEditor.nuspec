@@ -15,7 +15,7 @@ Graphical editor for modifying and protect Windows file type associations withou
     <projectUrl>http://www.gunnerinc.com/gfte.htm</projectUrl>
     <tags>Windows Configuration</tags>
     <copyright>Gunner</copyright>
-    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/executedprogramslist/master/appicon.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/filetypeeditor/master/appicon.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
