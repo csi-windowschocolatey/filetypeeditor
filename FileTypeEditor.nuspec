@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>filetypeeditor</id>
     <title>Gunner's File Type Editor</title>
-    <version>3.1.4.8</version>
+    <version>3.1.4.8</version> 
     <authors>Gunner</authors>
     <owners>Darwin Sanoy (CSI-Windows.com)</owners>
     <summary>Graphical editor for modifying and protect Windows file type associations without using the registry.</summary>
