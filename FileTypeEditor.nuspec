@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>filetypeeditor</id>
+    <title>Gunner's File Type Editor</title>
+    <version>3.1.4.8</version>
+    <authors>Gunner</authors>
+    <owners>Darwin Sanoy (CSI-Windows.com)</owners>
+    <summary>Graphical editor for modifying and protect Windows file type associations without using the registry.</summary>
+    <description>
+Graphical editor for modifying and protect Windows file type associations without using the registry.
+    </description>
+    <projectUrl>http://www.gunnerinc.com/gfte.htm</projectUrl>
+    <tags>Windows Configuration</tags>
+    <copyright>Gunner</copyright>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/executedprogramslist/master/appicon.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
